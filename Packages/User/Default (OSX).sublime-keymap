@@ -1,4 +1,6 @@
 [
+
+ { "keys": ["f1"], "command": "toggle_side_bar" },
 	{ "keys": ["alt+tab"], "command": "indent" },
 	{ "keys": ["alt+shift+tab"], "command": "unindent" },
 	{ "keys": ["super+shift+b"], "command": "expand_selection", "args": {"to": "brackets"} },
